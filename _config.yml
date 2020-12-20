@@ -22,7 +22,8 @@ title: Capital East Phase 2 Resident Association
 email: capital.east.p2.ra@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Description about the resident association goes here.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "resident-association" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: capital.east.p2.ra
 github_username:  capital.east.p2.ra
