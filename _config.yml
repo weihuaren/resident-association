@@ -21,13 +21,11 @@
 title: Capital East Phase 2 Resident Association
 email: capital.east.p2.ra@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "resident-association" # the subpath of your site, e.g. /blog
+  Description about the resident association goes here.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: RA
-github_username:  RA
+twitter_username: capital.east.p2.ra
+github_username:  capital.east.p2.ra
 
 # Build settings
 theme: minima
